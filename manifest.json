@@ -1,7 +1,7 @@
 {
 	"name": "Autoscroller",
 	"version": "1.0",
-	"description": "It scrolls web pages automatically after you said it.",
+	"description": "It scrolls web pages automatically after you \"said\" it.",
 	"background": {
 		"scripts": ["background.js"],
 		"persistent": false
